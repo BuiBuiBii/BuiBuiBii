@@ -1,5 +1,13 @@
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
+<!-- PHẦN GIỚI THIỆU BẢN THÂN -->
+<div align="center">
+  <h3>Mình là Bùi Đức Anh 🚀</h3>
+  <p>Mình là lập trình viên đam mê khám phá công nghệ mới, thích xây dựng sản phẩm chất lượng và tối ưu trải nghiệm người dùng.</p>
+  <p>🔭 <b>Dự án:</b> Đang thực hiện các dự án cá nhân thú vị | 🌱 <b>Học tập:</b> Đang nghiên cứu công nghệ mới</p>
+  <p>💬 <b>Sở thích:</b> Lập trình, chơi game và nghe nhạc</p>
+</div>
+
 ###
 
 <div data-importer="techs" align="center">
