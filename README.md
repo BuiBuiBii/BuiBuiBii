@@ -2,7 +2,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">A passionate software developer who loves building web and mobile applications, exploring new technologies, and writing clean code.<br>💻 Web & Mobile Developer<br>🔭 Currently working on exciting personal projects<br>🌱 Constantly learning Next.js, TypeScript and new tech<br>💬 Let's talk about UI/UX design and clean code<br>🎮 Hobbies: Coding, playing games and listening to music</h6>
+<p data-importer="text" align="left">A passionate software developer who loves building web and mobile applications, exploring new technologies, and writing clean code.<br>💻 Web & Mobile Developer<br>🔭 Currently working on exciting personal projects<br>🌱 Constantly learning Next.js, TypeScript and new tech<br>💬 Let's talk about UI/UX design and clean code<br>🎮 Hobbies: Coding, playing games and listening to music</p>
 
 ###
 
