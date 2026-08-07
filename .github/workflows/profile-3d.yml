@@ -1,28 +1,29 @@
-name: Generate Pacman Game
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 18 * * *" # Tự động chạy mỗi ngày lúc 1h sáng
+  workflow_dispatch: # Cho phép bấm chạy thủ công
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
     steps:
       - uses: actions/checkout@v3
       
-      - uses: abozanona/pacman-contribution-graph@prod
-        with:
-          github_user_name: BuiBuiBii
-          game_name: pacman 
-          
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: BuiBuiBii
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D graph" || exit 0
+          # Dòng quan trọng để sửa lỗi xung đột (fetch first):
+          git pull --rebase origin main
+          git push origin main
