@@ -1,4 +1,4 @@
-<!-- Tiêu đề và Hiệu ứng Chữ chạy đã sửa lỗi -->
+<!-- Tiêu đề và Hiệu ứng Chữ chạy -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+B%C3%B9i+%C4%90%E1%BB%A9c+Anh;Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+m%C3%ACnh!;Always+learning+and+improving!;" alt="Typing SVG" />
 </div>
@@ -61,8 +61,9 @@
 
 <hr />
 
-<!-- Đồ họa 3D SimCity (Vì bạn đã chạy thành công Action 3D) -->
-## 🏙️ Bản Đồ Đóng Góp 3D (SimCity Style)
+<!-- Đồ họa Pac-Man -->
+## 🎮 Trò Chơi Pac-Man Đóng Góp (Pac-man Style)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" />
+  <!-- Ảnh game Pac-man sẽ tự hiển thị sau khi Action chạy xong -->
+  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/github-contribution-grid-pacman.svg?v=1" alt="Pac-man Contribution Graph" />
 </div>
