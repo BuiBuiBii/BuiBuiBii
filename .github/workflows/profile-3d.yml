@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Dòng quan trọng dưới đây cấp quyền cho Action đẩy file lên repo của bạn:
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
       
