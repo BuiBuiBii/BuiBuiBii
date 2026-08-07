@@ -60,9 +60,8 @@
 
 <hr />
 
-<!-- Đồ họa 3D SimCity -->
-## 🏙️ Bản Đồ Đóng Góp 3D (SimCity Style)
+<!-- Đồ họa Pac-Man -->
+## 🎮 Trò Chơi Pac-Man Đóng Góp (Pac-man Style)
 <div align="center">
-  <!-- Khi Action chạy xong, ảnh sẽ tự động hiển thị ở đây -->
-  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/github-contribution-grid-pacman.svg" alt="Pac-man Contribution Graph" />
 </div>
