@@ -1,46 +1,53 @@
-<!-- Tiêu đề và Khẩu hiệu -->
-<h1 align="center" style="color: #2ea44f;">Xin chào! Mình là Bùi Đức Anh 👋</h1>
-<p align="center">
-  <b>Always learning and improving!</b>
-</p>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-<br />
+###
 
-<!-- Bố cục 1 cột (Giới thiệu bản thân trải dài hết màn hình) -->
-## 💡 Về Bản Thân
-Mình là **Bùi Đức Anh**. Mình là một lập trình viên đam mê khám phá công nghệ mới, thích xây dựng những sản phẩm chất lượng và tối ưu hóa trải nghiệm người dùng.
-
-* 🔭 **Dự án hiện tại:** Đang xây dựng một số dự án cá nhân thú vị.
-* 🌱 **Đang học tập:** Tiếp tục nâng cao kiến thức về cấu trúc dữ liệu, thuật toán và các framework mới.
-* 💬 **Sở thích:** Lập trình, chơi game và nghe nhạc.
-* ✉️ **Email:** buibuigoc@gmail.com
-
-<br />
-
-<!-- Nút liên kết LinkedIn -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/anhhh-bui-duc-04a919409/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<hr />
-
-<!-- Công nghệ sử dụng -->
-## 🛠️ Công Nghệ & Công Cụ Sử Dụng
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,mysql,git,figma,vscode&perline=8" alt="Tech Stack" />
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-<hr />
+###
 
-<!-- Đồ họa Pac-Man -->
-## 🎮 Trò Chơi Pac-Man Đóng Góp (Pac-man Style)
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/pacman-contribution-graph-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/pacman-contribution-graph.svg?v=1">
-    <img alt="Pac-man contribution graph" src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/pacman-contribution-graph.svg?v=1" width="100%">
-  </picture>
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=BuiBuiBii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
