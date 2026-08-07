@@ -1,11 +1,12 @@
-<!-- Tiêu đề và Hiệu ứng Chữ chạy -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+B%C3%B9i+%C4%90%E1%BB%A9c+Anh;Chào+mừng+bạn+đến+với+GitHub+của+mình!;Always+learning+and+improving!;" alt="Typing SVG" />
-</div>
+<!-- Tiêu đề và Khẩu hiệu (Dạng chữ thuần không bao giờ lỗi) -->
+<h1 align="center" style="color: #2ea44f;">Xin chào! Mình là Bùi Đức Anh 👋</h1>
+<p align="center">
+  <b>Always learning and improving!</b>
+</p>
 
 <br />
 
-<!-- Bố cục 2 Cột: Giới thiệu & Ảnh minh họa (Đã thay GIF ổn định) -->
+<!-- Bố cục 2 Cột: Giới thiệu & Ảnh minh họa (Dùng ảnh lưu trên GitHub) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="55%">
@@ -22,8 +23,8 @@
       </p>
     </td>
     <td valign="top" width="45%" align="center">
-      <!-- Ảnh động Lập trình đã chuyển host về GitHub, đảm bảo hiển thị 100% -->
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/programmer.gif" width="320" alt="Coding GIF" />
+      <!-- Ảnh động lập trình lưu trên máy chủ GitHub, vượt qua mọi trình chặn quảng cáo -->
+      <img src="https://raw.githubusercontent.com/Avinash-Gahlowt/Avinash-Gahlowt/master/developer.gif" width="300" alt="Coding GIF" />
     </td>
   </tr>
 </table>
