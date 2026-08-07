@@ -64,6 +64,9 @@
 <!-- Đồ họa Pac-Man -->
 ## 🎮 Trò Chơi Pac-Man Đóng Góp (Pac-man Style)
 <div align="center">
-  <!-- Ảnh game Pac-man sẽ tự hiển thị sau khi Action chạy xong -->
-  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/github-contribution-grid-pacman.svg?v=1" alt="Pac-man Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/pacman-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/pacman-contribution-graph.svg?v=1">
+    <img alt="Pac-man contribution graph" src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/pacman-contribution-graph.svg?v=1" width="100%">
+  </picture>
 </div>
