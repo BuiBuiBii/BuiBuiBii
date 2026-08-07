@@ -1,8 +1,9 @@
-<!-- Tiêu đề và Hiệu ứng Chữ chạy -->
 <!-- Tiêu đề và Hiệu ứng Chữ chạy đã sửa lỗi -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+B%C3%B9i+%C4%90%E1%BB%A9c+Anh;Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+m%C3%ACnh!;Always+learning+and+improving!;" alt="Typing SVG" />
 </div>
+
+<br />
 
 <!-- Bố cục 2 Cột: Giới thiệu & Ảnh minh họa -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -17,7 +18,7 @@
         <li>✉️ <b>Email:</b> buibuigoc@gmail.com</li>
       </ul>
       <p>
-        <a href="[https://linkedin.com/in/[LINKEDIN_USERNAME]](https://www.linkedin.com/in/anhhh-bui-duc-04a919409/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/anhhh-bui-duc-04a919409/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       </p>
     </td>
     <td valign="top" width="45%" align="center">
@@ -44,10 +45,10 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BuiBuiBii&show_icons=true&theme=tokyonight&border_radius=10&locale=vi" alt="GitHub Stats" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BuiBuiBii&show_icons=true&theme=tokyonight&border_radius=10&locale=vi&v=1" alt="GitHub Stats" width="95%" />
     </td>
     <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiBuiBii&layout=compact&theme=tokyonight&border_radius=10&locale=vi" alt="Top Languages" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiBuiBii&layout=compact&theme=tokyonight&border_radius=10&locale=vi&v=1" alt="Top Languages" width="95%" />
     </td>
   </tr>
 </table>
@@ -55,13 +56,13 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BuiBuiBii&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Github Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BuiBuiBii&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Github Trophies" />
 </div>
 
 <hr />
 
-<!-- Đồ họa Pac-Man -->
-## 🎮 Trò Chơi Pac-Man Đóng Góp (Pac-man Style)
+<!-- Đồ họa 3D SimCity (Vì bạn đã chạy thành công Action 3D) -->
+## 🏙️ Bản Đồ Đóng Góp 3D (SimCity Style)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/output/github-contribution-grid-pacman.svg" alt="Pac-man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/BuiBuiBii/BuiBuiBii/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" />
 </div>
