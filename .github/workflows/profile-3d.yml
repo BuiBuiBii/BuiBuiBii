@@ -2,26 +2,23 @@ name: Generate Pacman Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Tự động chạy mỗi ngày
-  workflow_dispatch: # Cho phép bấm chạy thủ công bất cứ lúc nào
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Dòng quan trọng dưới đây cấp quyền cho Action đẩy file lên repo của bạn:
     permissions:
       contents: write
       
     steps:
       - uses: actions/checkout@v3
       
-      # Tạo file SVG game Pac-Man từ đóng góp của bạn
       - uses: abozanona/pacman-contribution-graph@prod
         with:
           github_user_name: BuiBuiBii
           game_name: pacman 
           
-      # Đẩy file ảnh SVG game lên nhánh "output" để hiển thị
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
